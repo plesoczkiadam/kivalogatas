@@ -1,0 +1,14 @@
+D:\Users\Ádám\Desktop\Távoktatás\2020.11.18\Feladat\Feladat\bin\Debug\Feladat.exe.config
+D:\Users\Ádám\Desktop\Távoktatás\2020.11.18\Feladat\Feladat\bin\Debug\Feladat.exe
+D:\Users\Ádám\Desktop\Távoktatás\2020.11.18\Feladat\Feladat\bin\Debug\Feladat.pdb
+D:\Users\Ádám\Desktop\Távoktatás\2020.11.18\Feladat\Feladat\obj\Debug\Feladat.csprojAssemblyReference.cache
+D:\Users\Ádám\Desktop\Távoktatás\2020.11.18\Feladat\Feladat\obj\Debug\Feladat.exe
+D:\Users\Ádám\Desktop\Távoktatás\2020.11.18\Feladat\Feladat\obj\Debug\Feladat.pdb
+D:\Távoktatás\2020.11.18\Feladat\Feladat\bin\Debug\Feladat.exe.config
+D:\Távoktatás\2020.11.18\Feladat\Feladat\bin\Debug\Feladat.exe
+D:\Távoktatás\2020.11.18\Feladat\Feladat\bin\Debug\Feladat.pdb
+D:\Távoktatás\2020.11.18\Feladat\Feladat\obj\Debug\Feladat.csproj.AssemblyReference.cache
+D:\Távoktatás\2020.11.18\Feladat\Feladat\obj\Debug\Feladat.csproj.SuggestedBindingRedirects.cache
+D:\Távoktatás\2020.11.18\Feladat\Feladat\obj\Debug\Feladat.csproj.CoreCompileInputs.cache
+D:\Távoktatás\2020.11.18\Feladat\Feladat\obj\Debug\Feladat.exe
+D:\Távoktatás\2020.11.18\Feladat\Feladat\obj\Debug\Feladat.pdb
